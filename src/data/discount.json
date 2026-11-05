@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nomi": "iPhone 15 Pro 128GB",
+    "kategoriya": "Smartfonlar",
+    "narx": 1200,
+    "foyiz": 10,
+    "chegirmaSummasi": 120,
+    "yakuniyNarx": 1080
+  },
+  {
+    "id": 2,
+    "nomi": "Samsung Galaxy S24 Ultra",
+    "kategoriya": "Smartfonlar",
+    "narx": 1300,
+    "foyiz": 15,
+    "chegirmaSummasi": 195,
+    "yakuniyNarx": 1105
+  },
+  {
+    "id": 3,
+    "nomi": "MacBook Air M2 13-inch",
+    "kategoriya": "Noutbuklar",
+    "narx": 1100,
+    "foyiz": 12,
+    "chegirmaSummasi": 132,
+    "yakuniyNarx": 968
+  },
+  {
+    "id": 4,
+    "nomi": "AirPods Pro 2",
+    "kategoriya": "Aksessuarlar",
+    "narx": 250,
+    "foyiz": 20,
+    "chegirmaSummasi": 50,
+    "yakuniyNarx": 200
+  },
+  {
+    "id": 5,
+    "nomi": "Sony PlayStation 5 Slim",
+    "kategoriya": "O'yin konsollari",
+    "narx": 550,
+    "foyiz": 8,
+    "chegirmaSummasi": 44,
+    "yakuniyNarx": 506
+  },
+  {
+    "id": 6,
+    "nomi": "Xiaomi Robot Vacuum S10",
+    "kategoriya": "Maishiy texnika",
+    "narx": 300,
+    "foyiz": 25,
+    "chegirmaSummasi": 75,
+    "yakuniyNarx": 225
+  }
+]

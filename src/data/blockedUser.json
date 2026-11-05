@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "ism": "Kiber-Choyxonachi",
+    "username": "osh_master_2077",
+    "email": "zigir_yog@matrix.uz",
+    "telefon": "+998901010101",
+    "yosh": 42,
+    "manzil": "Toshkent, Kiber-Chorsu, 7-qavat",
+    "status": "VIP",
+    "balans": 99999,
+    "isBlocked": false,
+    "bio": "Faqat dron orqali yetkazib beriladigan devzira guruch va RTX videokartalarni sotib olaman."
+  },
+  {
+    "id": 2,
+    "ism": "Kapitan Qovun",
+    "username": "mirzachul_pirati",
+    "email": "torpedo@mars.uz",
+    "telefon": "+998997770077",
+    "yosh": 120,
+    "manzil": "Jizzax — Mars orbitasi, 3-bekat",
+    "status": "Afsonaviy",
+    "balans": 5400,
+    "isBlocked": false,
+    "bio": "Kosmik kemam uchun ehtiyot qismlar va qishki qovun qidiryapman."
+  },
+  {
+    "id": 3,
+    "ism": "Tungi Kodchi (Sharpasi)",
+    "username": "ctrl_z_hero",
+    "email": "undefined@null.com",
+    "telefon": "+998934040404",
+    "yosh": 23,
+    "manzil": "Qorong'u xona, 3-monitor orqasi",
+    "status": "Uyqusiz",
+    "balans": 4.04
+  }
+]

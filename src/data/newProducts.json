@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nomi": "iPad Pro M4 11-inch 256GB",
+    "kategoriya": "Planshetlar",
+    "brend": "Apple",
+    "narx": 1050,
+    "soni": 25,
+    "kafolatMuddati": "12 oy",
+    "kelganSana": "2026-11-01",
+    "yangi": true
+  },
+  {
+    "id": 2,
+    "nomi": "Samsung Galaxy Z Fold 6",
+    "kategoriya": "Smartfonlar",
+    "brend": "Samsung",
+    "narx": 1800,
+    "soni": 12,
+    "kafolatMuddati": "12 oy",
+    "kelganSana": "2026-11-02",
+    "yangi": true
+  },
+  {
+    "id": 3,
+    "nomi": "Xiaomi Pad 6S Pro",
+    "kategoriya": "Planshetlar",
+    "brend": "Xiaomi",
+    "narx": 580,
+    "soni": 40,
+    "kafolatMuddati": "6 oy",
+    "kelganSana": "2026-11-03",
+    "yangi": true
+  },
+  {
+    "id": 4,
+    "nomi": "Logitech MX Master 3S",
+    "kategoriya": "Aksessuarlar",
+    "brend": "Logitech",
+    "narx": 110,
+    "soni": 60,
+    "kafolatMuddati": "6 oy",
+    "kelganSana": "2026-11-04",
+    "yangi": true
+  },
+  {
+    "id": 5,
+    "nomi": "LG OLED C4 55-inch 4K Smart TV",
+    "kategoriya": "Televizorlar",
+    "brend": "LG",
+    "narx": 14
+  }
+]

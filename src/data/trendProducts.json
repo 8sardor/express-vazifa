@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nomi": "iPhone 16 Pro Max 256GB",
+    "kategoriya": "Smartfonlar",
+    "narx": 1350,
+    "reyting": 4.9,
+    "sotilganSoni": 420,
+    "mavjud": true
+  },
+  {
+    "id": 2,
+    "nomi": "AirPods Max (USB-C)",
+    "kategoriya": "Aksessuarlar",
+    "narx": 550,
+    "reyting": 4.8,
+    "sotilganSoni": 315,
+    "mavjud": true
+  },
+  {
+    "id": 3,
+    "nomi": "Dyson Airwrap Multi-Styler",
+    "kategoriya": "Go'zallik va parvarish",
+    "narx": 600,
+    "reyting": 4.9,
+    "sotilganSoni": 290,
+    "mavjud": true
+  },
+  {
+    "id": 4,
+    "nomi": "Samsung Odyssey OLED G9",
+    "kategoriya": "Monitorlar",
+    "narx": 1200,
+    "reyting": 4.7,
+    "sotilganSoni": 180,
+    "mavjud": true
+  }
+]

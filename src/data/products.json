@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nomi": "iPhone 15 Pro Max 256GB",
+    "kategoriya": "Smartfonlar",
+    "brend": "Apple",
+    "narx": 1250,
+    "soni": 18,
+    "rangi": "Natural Titanium",
+    "tavsif": "A17 Pro protsessori, 48MP asosiy kamera va mustahkam titan korpus.",
+    "mavjud": true
+  },
+  {
+    "id": 2,
+    "nomi": "ASUS TUF Gaming F15",
+    "kategoriya": "Noutbuklar",
+    "brend": "ASUS",
+    "narx": 980,
+    "soni": 10,
+    "rangi": "Eclipse Gray",
+    "tavsif": "Intel Core i7, 16GB RAM, 512GB SSD, RTX 4060 videokarta va 144Hz ekran.",
+    "mavjud": true
+  },
+  {
+    "id": 3,
+    "nomi": "Samsung Galaxy Tab S9 128GB",
+    "kategoriya": "Planshetlar",
+    "brend": "Samsung",
+    "narx": 750,
+    "soni": 14,
+    "rangi": "Graphite",
+    "tavsif": "Dynamic AMOLED 2X ekran, S-Pen qalami to'plamda va IP68 suvdan himoya.",
+    "mavjud": true
+  }
+]

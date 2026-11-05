@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "mahsulotNomi": "Samsung Galaxy A54 128GB",
+    "kategoriya": "Smartfonlar",
+    "narx": 350,
+    "mijozIsmi": "Sardor Aliyev",
+    "sabab": "Ekranida zavod nuqsoni (chiziq) bor ekan",
+    "holati": "Yaroqsiz",
+    "qaytarilganSana": "2026-10-25",
+    "pulQaytarildi": true
+  },
+  {
+    "id": 2,
+    "mahsulotNomi": "AirPods Pro 2",
+    "kategoriya": "Aksessuarlar",
+    "narx": 250,
+    "mijozIsmi": "Malika Karimova",
+    "sabab": "Chap quloqchin ishlamayapti",
+    "holati": "Servisda",
+    "qaytarilganSana": "2026-10-28",
+    "pulQaytarildi": false
+  },
+  {
+    "id": 3,
+    "mahsulotNomi": "LG Kir yuvish mashinasi 7kg",
+    "kategoriya": "Maishiy texnika",
+    "narx": 420,
+    "mijozIsmi": "Javohir Tursunov",
+    "sabab": "Yetkazib berish vaqtida korpusi qirilgan",
+    "holati": "Qayta sotuvga",
+    "qaytarilganSana": "2026-11-01",
+    "pulQaytarildi": true
+  },
+  {
+    "id": 4,
+    "mahsulotNomi": "HP Pavilion 15",
+    "kategoriya": "Noutbuklar",
+    "narx": 650,
+    "mijozIsmi": "Doston Bekmurodov",
+    "sabab": "Mijozga rangi va o'lchami yoqmadi (qutisi ochilmagan)",
+    "holati": "Yangi",
+    "qaytarilganSana": "2026-11-03",
+    "pulQaytarildi": true
+  },
+  {
+    "id": 5,
+    "mahsulotNomi": "Xiaomi Mi Band 8",
+    "kategoriya": "Smart soatlar",
+    "narx": 45,
+    "mijozIsmi": "Aziza Rustamova",
+    "sabab": "Zaryad olmayapti",
+    "holati": "Yaroqsiz",
+    "qaytarilganSana": "2026-11-04",
+    "pulQaytarildi": false
+  }
+]

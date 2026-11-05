@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "mijozIsmi": "Kiber-Choyxonachi",
+    "mahsulotNomi": "DJI Mini 4 Pro (Fly More Combo)",
+    "narx": 1150,
+    "soni": 2,
+    "umumiySumma": 2300,
+    "holati": "To'lov kutilmoqda",
+    "qoshilganVaqt": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "mijozIsmi": "Tungi Kodchi (Sharpasi)",
+    "mahsulotNomi": "Logitech MX Master 3S",
+    "narx": 110,
+    "soni": 3,
+    "umumiySumma": 330,
+    "holati": "Savatchada",
+    "qoshilganVaqt": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "userId": 4,
+    "mijozIsmi": "Buvijon Pro Max",
+    "mahsulotNomi": "Samsung Odyssey OLED G9",
+    "narx": 1200,
+    "soni": 1,
+    "umumiySumma": 1200,
+    "holati": "Rasmiylashtirilmoqda",
+    "qoshilganVaqt": "2026-11-04"
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "mijozIsmi": "Kapitan Qovun",
+    "mahsulotNomi": "Apple Watch Ultra 2",
+    "narx": 800,
+    "soni": 5,
+    "umumiySumma": 4000,
+    "holati": "Savatchada",
+    "qoshilganVaqt": "2026-11-03"
+  },
+  {
+    "id": 5,
+    "userId": 6,
+    "mijozIsmi": "Plovosaurus Rex",
+    "mahsulotNomi": "Xiaomi Robot Vacuum S10",
+    "narx": 225,
+    "soni": 4,
+    "umumiySumma": 900,
+    "holati": "To'lov kutilmoqda",
+    "qoshilganVaqt": "2026-11-05"
+  }
+]

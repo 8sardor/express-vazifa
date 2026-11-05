@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nomi": "Smartfonlar",
+    "tavsif": "Barcha turdagi zamonaviy smartfonlar va uyali aloqa vositalari",
+    "mahsulotlarSoni": 45,
+    "faol": true
+  },
+  {
+    "id": 2,
+    "nomi": "Noutbuklar",
+    "tavsif": "Ofis, o'qish va o'yinlar (gaming) uchun mo'ljallangan noutbuklar",
+    "mahsulotlarSoni": 32,
+    "faol": true
+  },
+  {
+    "id": 3,
+    "nomi": "Planshetlar",
+    "tavsif": "Grafik dizayn, o'qish va kundalik foydalanish uchun planshetlar",
+    "mahsulotlarSoni": 18,
+    "faol": true
+  },
+  {
+    "id": 4,
+    "nomi": "Aksessuarlar",
+    "tavsif": "Quloqchinlar, sichqonchalar, klaviaturalar va zaryadlash qurilmalari",
+    "mahsulotlarSoni": 120,
+    "faol": true
+  },
+  {
+    "id": 5,
+    "nomi": "Smart soatlar",
+    "tavsif": "Aqlli soatlar va fitnes brasletlar",
+    "mahsulotlarSoni": 28,
+    "faol": true
+  },
+  {
+    "id": 6,
+    "nomi": "Maishiy texnika",
+    "tavsif": "Uy va oshxona uchun kerakli barcha elektr jihozlari",
+    "mahsulotlarSoni": 64,
+    "faol": true
+  },
+  {
+    "id": 7,
+    "nomi": "Televizorlar",
+    "tavsif": "4K, 8K, OLED va QLED texnologiyasidagi Smart televizorlar",
+    "mahsulotlarSoni": 15,
+    "faol": true
+  },
+  {
+    "id": 8,
+    "nomi": "O'yin konsollari",
+    "tavsif": "PlayStation, Xbox, Nintendo pristavkalari va joystiklar",
+    "mahsulotlarSoni": 10,
+    "faol": false
+  }
+]
